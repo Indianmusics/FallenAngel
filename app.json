@@ -35,47 +35,47 @@
       "API_ID": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "20583077"
       },
       "API_HASH": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "c6a1fabd1994a2aa81e90bb5f6d896c0"
       },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "5908792351"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "5908792351"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "Abishnoi1M"
+         "value": "Anony_mous_Girl"
       },
       "EVENT_LOGS": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
          "required": true,
-         "value": "-100"
+         "value": "-1001701768647"
       },
       "DATABASE_URL": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (sǫʟ :- elephantsql.com).",
          "required": false,
-         "value": ""
+         "value": "postgres://srtyuovb:x8WEyWCsAG3JIJaevjLYMdfVRmOl8Mux@satao.db.elephantsql.com/srtyuovb"
       },
       "MONGO_DB_URI": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (ᴍᴏɴɢᴏ).",
          "required": true,
-         "value": "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"
+         "value": ""
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "5796457197:AAG2SGPFD0-vym3WwZHhN1C2Fjq8dz_F8xY"
       }
    }
 }
