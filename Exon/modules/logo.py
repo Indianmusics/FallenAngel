@@ -238,6 +238,15 @@ LOGO_LINKS = [
     "https://telegra.ph/file/258c02c002e89287d5d9b.jpg",
     "https://telegra.ph/file/d2abc99773a9d4954c2ba.jpg",
     "https://telegra.ph/file/9849b3940f063b065f4e3.jpg",
+    "https://te.legra.ph/file/7f055d6f390adf53ed37d.jpg"
+    "https://te.legra.ph/file/fb2fb034a2c449f041308.jpg"
+    "https://te.legra.ph/file/9eac8060d947053bcc1ce.jpg"
+    "https://te.legra.ph/file/9eac8060d947053bcc1ce.jpg"
+    "https://te.legra.ph/file/80b719cfddbfefc06f4e6.jpg"
+    "https://te.legra.ph/file/40532390df77a08ceb36e.jpg"
+    "https://te.legra.ph/file/1680ac885f74ac0421b22.jpg"
+    "https://te.legra.ph/file/75379269eeaa6a8137b76.jpg"
+    "https://te.legra.ph/file/de73be8f6eae215f14368.jpg"
 ]
 
 
