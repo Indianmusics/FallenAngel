@@ -86,7 +86,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-START_IMG = "https://telegra.ph/file/b5743eea4bd820cce1b9c.jpg"
+START_IMG = "https://te.legra.ph/file/a0d89ea732c2b2dcafaf2.jpg"
 PM_START_TEX = """
 ʜᴇʟʟᴏ `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
 """
@@ -106,12 +106,12 @@ HELP_STRINGS = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="❣ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ❣︎", url=f"t.me/{BOT_USERNAME}?startgroup=new"
+            text="⍟ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ⍟", url=f"t.me/{BOT_USERNAME}?startgroup=new"
         ),
     ],
     [
-        InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ 🏡", callback_data="EXON_"),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="☆ ᴀʙᴏᴜᴛ ☆", callback_data="EXON_"),
+        InlineKeyboardButton(text="☆ ᴅᴇᴠᴇʟᴏᴘᴇʀ ☆", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
@@ -259,7 +259,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         ),
                         InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇꜱ",
-                            url=f"https://t.me/AbishnoiMF",
+                            url=f"https://t.me/The_Adheera",
                         ),
                     ],
                     [
